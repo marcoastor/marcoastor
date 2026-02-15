@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<!-- Stats & Badges Row -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=marcoastor&label=Profile%20Views&color=38fcef&style=plastic" alt="Profile Views" />
+</p>
+
 <!--
 **marcoastor/marcoastor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
