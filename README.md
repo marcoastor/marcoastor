@@ -2,7 +2,7 @@
 
 <!-- Stats & Badges Row -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marcoastor&label=Profile%20Views&color=38fcef&style=plastic" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=marcoastor&label=Profile%20Views&color=ffab03&style=plastic" alt="Profile Views" />
 </p>
 
 <!--
